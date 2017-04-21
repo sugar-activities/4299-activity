@@ -1,0 +1,10 @@
+; activity bundles are a demential idea
+
+[Activity]
+name = XaoS
+activity_version = 5
+bundle_id = org.codewiz.XaoS
+license = GPLv2+
+tags = math;oldskool
+icon = activity-xaos
+exec = sugar-activity activity.XaoSActivity
